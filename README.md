@@ -24,7 +24,17 @@ Ein Beispiel könnte wie folgt aussehen:
 
 ## . . . . . . . . . .... [SPOILER] .... . . . . . . . . 
 
-## Visual Studio
+## Visual Studio:  
 
-## Ausgabe
+## Ausgabe:  
+![aX](https://github.com/IxI-Enki/Uebung-019/assets/138018029/b7f21894-db73-4633-abb3-2d530c04a352)
+![aN](https://github.com/IxI-Enki/Uebung-019/assets/138018029/3dc175ce-0bd7-4241-b363-a5943eaf83c1)  
+
+![aYX](https://github.com/IxI-Enki/Uebung-019/assets/138018029/fb783b2c-0a1a-4073-8c60-f425b76a2cd1)
+![aNX](https://github.com/IxI-Enki/Uebung-019/assets/138018029/a6b97757-2f97-4e75-85f0-8f80f02af9e0)  
+
+![aYNNNN](https://github.com/IxI-Enki/Uebung-019/assets/138018029/5355fe40-61d7-488c-be7c-535f06d90655)  
+
+
+
 
